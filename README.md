@@ -12,9 +12,11 @@ Removal of duplicate user records
 Validation of friends and liked page references
 This ensures the dataset is accurate and suitable for analysis.
 
+
 Recommendation Systems
 
 Two recommendation engines were built:
+
 🔹 People You May Know
 
 Suggests new friends to a user based on:
