@@ -32,7 +32,9 @@ Common interests
 These recommendations were implemented using:
 
 Loops
+
 Sets
+
 Dictionaries
 
 Conditional logic
